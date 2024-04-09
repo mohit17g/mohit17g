@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://user-images.githubusercontent.com/127314628/227901416-30d0957f-a525-4d3c-a320-391d99513820.png)
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
