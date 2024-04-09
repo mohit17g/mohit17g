@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/mohit17g/mohit17g/blob/main/web-development-landing-page-people-260nw-1838445880.webp)
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
